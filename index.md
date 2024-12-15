@@ -25,6 +25,8 @@ layout: default
   - 08/2016 - 08/2017: **Junior Engineer**
     - Kalman filtering for gas pipeline mapping
 
+---
+
 
 ## Education
 
@@ -34,6 +36,8 @@ layout: default
 - 09/2013 - 09/2017: BSc Control Systems
   - Department of Computer Technologies and Control
   - [ITMO University](https://en.itmo.ru/)
+
+---
 
 
 ## Honors and Awards
@@ -46,6 +50,8 @@ layout: default
 - 4th individual place in open track of [VoxSRC-2020](https://competitions.codalab.org/competitions/26120#results) (VoxCeleb Speaker Recognition Challenge 2020)
 
 - Winner of [Global Education Scholarship](https://educationglobal.ru/en/general_program_information/) 2017
+
+---
 
 
 ## Selected Publications

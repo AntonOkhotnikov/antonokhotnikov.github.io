@@ -8,6 +8,8 @@ Hey! I'm a proactive research engineer with 6+ years of experience in speech pro
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a088ac29bff7424f8ad965ce112b7aa2?sid=29307a4b-8464-4ddc-a691-6e6ef77e8e8e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
+
 
 ## Talks and Presentations
 - 12/2024 Poster presentation @ [DLBCN2024](https://sites.google.com/view/dlbcn2024/program/posters) (Deep Learning Barcelona Symposium 2024)
@@ -21,11 +23,15 @@ Hey! I'm a proactive research engineer with 6+ years of experience in speech pro
 - 07/2022 Invited speaker @ ITMO Alumni Summer Meetup 2022
     - *Postgraduate Studies in the UK* panel discussion
 
+---
+
 
 ## Open-source contributions
 - [VoxTube: a multilingual speaker recognition dataset](https://idrnd.github.io/VoxTube/)
 - [Reshape Dimensions Network for Speaker Recognition](https://github.com/IDRnD/ReDimNet)
 - [LRPD: Large Replay Parallel Dataset](https://github.com/IDRnD/lrpd-paper-code)
+
+---
 
 
 ## Trainings
