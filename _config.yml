@@ -1,0 +1,27 @@
+title: Anton Okhotnikov
+url: "https://antonokhotnikov.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Designed by Ankit Sultana, adapted by Jee-weon Jung and re-used by Anton Okhotnikov."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Main"
+   link: "/"
+ - name: "About"
+   link: "/pages/about"
+ - name: "CV"
+   link: "/pages/cv"
+ - name: "GitHub"
+   link: "https://github.com/AntonOkhotnikov"
+ - name: "Contact"
+   link: "/pages/contact"
