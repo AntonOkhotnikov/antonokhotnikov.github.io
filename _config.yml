@@ -15,10 +15,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Main"
-   link: "/"
  - name: "About"
-   link: "/pages/about"
+   link: "/"
+ - name: "Main"
+   link: "/pages/main"
  - name: "CV"
    link: "/pages/cv"
  - name: "GitHub"
