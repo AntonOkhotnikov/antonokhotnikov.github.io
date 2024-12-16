@@ -57,4 +57,3 @@ Please refer to my [Scholar profile](https://scholar.google.com/citations?user=t
 ## Trainings
 - 09/2023 [Generative Summit](https://generativesummit.yandex.ru), Yandex, Belgrade
 - 08/2019 [Machine Learning Summer School](https://smiles.skoltech.ru/mlss2019), Skoltech, Moscow
-
