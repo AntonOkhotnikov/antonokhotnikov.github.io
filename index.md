@@ -5,7 +5,7 @@ layout: default
 
 ## Intro
 
-Hey! I'm a proactive research engineer with 6+ years of experience in speech processing and advanced leadership skills. I've got an extensive background leading research and development in an R&D team. I love being in *Day 1* mode and going beyond what is considered being SotA. My research interests also include multi-modal applications, recommender systems and generative models.
+Hey! I'm a proactive research engineer with 6+ years of experience in speech processing and with advanced leadership skills. I've got an extensive background of team management in a product-oriented R&D environment. I love being in *Day 1* mode and going beyond what is considered being SotA. My research interests also include multi-modal applications, recommender systems and generative models.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a088ac29bff7424f8ad965ce112b7aa2?sid=29307a4b-8464-4ddc-a691-6e6ef77e8e8e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -45,3 +45,10 @@ Hey! I'm a proactive research engineer with 6+ years of experience in speech pro
 - 09/2013 - 09/2017: BSc Control Systems
   - Department of Computer Technologies and Control
   - [ITMO University](https://en.itmo.ru/)
+
+---
+
+
+## Trainings
+- 09/2023 [Generative Summit](https://generativesummit.yandex.ru), Yandex, Belgrade
+- 08/2019 [Machine Learning Summer School](https://smiles.skoltech.ru/mlss2019), Skoltech, Moscow
