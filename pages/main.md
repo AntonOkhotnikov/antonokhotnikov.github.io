@@ -11,8 +11,15 @@ layout: default
 - 1st team place in text-independent track of [SdSV-2021](https://competitions.codalab.org/competitions/28269#results) (Short-duration Speaker Verification challenge 2021)
 - 2nd team place in open track of spoofing-aware speaker verification of [ASVSpoof5](https://www.asvspoof.org/) challenge 2024
 - 4th individual place in open track of [VoxSRC-2020](https://competitions.codalab.org/competitions/26120#results) (VoxCeleb Speaker Recognition Challenge 2020)
-
 - Winner of [Global Education Scholarship](https://educationglobal.ru/en/general_program_information/) 2017
+
+---
+
+
+## Open-source contributions
+- [Reshape Dimensions Network for Speaker Recognition](https://github.com/IDRnD/ReDimNet)
+- [VoxTube: a multilingual speaker recognition dataset](https://idrnd.github.io/VoxTube/)
+- [LRPD: Large Replay Parallel Dataset](https://github.com/IDRnD/lrpd-paper-code)
 
 ---
 
@@ -44,11 +51,3 @@ Please refer to my [Scholar profile](https://scholar.google.com/citations?user=t
     - *Voice Biometrics in Microphonel Channel* presentation
 - 07/2022 Invited speaker @ ITMO Alumni Summer Meetup 2022
     - *Postgraduate Studies in the UK* panel discussion
-
----
-
-
-## Open-source contributions
-- [VoxTube: a multilingual speaker recognition dataset](https://idrnd.github.io/VoxTube/)
-- [Reshape Dimensions Network for Speaker Recognition](https://github.com/IDRnD/ReDimNet)
-- [LRPD: Large Replay Parallel Dataset](https://github.com/IDRnD/lrpd-paper-code)
