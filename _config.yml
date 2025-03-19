@@ -16,6 +16,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
 nav:
  - name: "About"
    link: "/"
