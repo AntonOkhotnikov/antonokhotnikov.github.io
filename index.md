@@ -5,7 +5,7 @@ layout: default
 
 ## Intro
 
-Hey! I'm a research engineer with 8+ years of experience in speech processing, recognised as an [Exceptional Talent](https://www.gov.uk/global-talent) in digital technology by [Tech Nation](https://technation.io/) (UK Global Talent Visa). I have shipped production systems in speaker recognition, voice antispoofing, speech recognition, and AI voice assistants, and contributed to advancing the State-of-the-Art through a mix of applied research and engineering. My current interests are multi-modal applications and generative modelling with speech.
+Hey! I'm a research engineer with 8 years of experience in speech processing, endorsed as an Exceptional Talent (UK Global Talent Visa) for achievements and leadership in the field. I have delivered State-of-the-Art speaker recognition research, won world voice biometrics championships, and shipped production systems for on-device speaker recognition and AI voice assistants. I love being in *Day 1* mode, and my current research interests include multi-modal and generative speech applications.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a088ac29bff7424f8ad965ce112b7aa2?sid=29307a4b-8464-4ddc-a691-6e6ef77e8e8e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
