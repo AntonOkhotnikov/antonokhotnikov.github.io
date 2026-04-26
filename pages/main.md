@@ -5,6 +5,7 @@ layout: default
 
 ## Honors and Awards
 
+- Recipient of the [UK Global Talent Visa](https://www.gov.uk/global-talent) for leadership and achievements in Speech AI, 2025
 - 1st team place in open track of [VoxSRC-2023](https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html) (VoxCeleb Speaker Recognition Challenge 2023) 
 - 1st team place in [SASVC-2022](https://sasv-challenge.github.io/challenge_results/) (Spoofing-Aware Speaker Verification Challenge 2022)
 - 1st team place in open and closed tracks of [VoxSRC-2022](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html) (VoxCeleb Speaker Recognition Challenge 2022) 
@@ -17,6 +18,7 @@ layout: default
 
 
 ## Open-source contributions
+- [ReDimNet2: Scaling Speaker Verification via Time-Pooled Dimension Reshaping](https://github.com/PalabraAI/redimnet2)
 - [Reshape Dimensions Network for Speaker Recognition](https://github.com/IDRnD/ReDimNet)
 - [VoxTube: a multilingual speaker recognition dataset](https://idrnd.github.io/VoxTube/)
 - [LRPD: Large Replay Parallel Dataset](https://github.com/IDRnD/lrpd-paper-code)
@@ -27,13 +29,15 @@ layout: default
 ## Selected Publications
 Please refer to my [Scholar profile](https://scholar.google.com/citations?user=tAvtYTMAAAAJ&hl=en) for sources and a full list of publications.
 
-1. I. Yakovlev, R. Makarov, A. Balykin, P. Malov, **A. Okhotnikov**, and N. Torgashov, *Reshape Dimensions Network for Speaker Recognition*, in Proc. Interspeech 2024.
+1. I. Yakovlev, and **A. Okhotnikov**, *ReDimNet2: Scaling Speaker Verification via Time-Pooled Dimension Reshaping*, Submitted to Interspeech 2026.
 
-2. I. Yakovlev, **A. Okhotnikov**, N. Torgashov, R. Makarov, Y. Voevodin, and K. Simonchik, *VoxTube: a multilingual speaker recognition dataset*, in Proc. Interspeech 2023.
+2. I. Yakovlev, R. Makarov, A. Balykin, P. Malov, **A. Okhotnikov**, and N. Torgashov, *Reshape Dimensions Network for Speaker Recognition*, in Proc. Interspeech 2024.
 
-3. A. Alenin, N. Torgashov, **A. Okhotnikov**, R. Makarov, and I. Yakovlev, *A Subnetwork Approach for Spoofing Aware Speaker Verification*, in Proc. Interspeech 2022.
+3. I. Yakovlev, **A. Okhotnikov**, N. Torgashov, R. Makarov, Y. Voevodin, and K. Simonchik, *VoxTube: a multilingual speaker recognition dataset*, in Proc. Interspeech 2023.
 
-4. I. Yakovlev, M. Melnikov, N. Bukhal, R. Makarov, A. Alenin, N. Torgashov, and **A. Okhotnikov**, *LRPD: Large Replay Parallel Dataset*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022.
+4. A. Alenin, N. Torgashov, **A. Okhotnikov**, R. Makarov, and I. Yakovlev, *A Subnetwork Approach for Spoofing Aware Speaker Verification*, in Proc. Interspeech 2022.
+
+5. I. Yakovlev, M. Melnikov, N. Bukhal, R. Makarov, A. Alenin, N. Torgashov, and **A. Okhotnikov**, *LRPD: Large Replay Parallel Dataset*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022.
 
 ---
 
