@@ -37,7 +37,7 @@ Hey! I'm a research engineer with 8 years of experience in speech processing, en
 
 ## Teaching
 
-- Speech Recognition and Generation at AI Talent Hub, ITMO University
+- Speech Recognition and Generation at [AI Talent Hub, ITMO University](https://ai.itmo.ru/)
   - 02/2026 - present: **Course Lead**
     - Course leader for MSc course [Speech Recognition and Generation](https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course)
 
@@ -57,9 +57,9 @@ Hey! I'm a research engineer with 8 years of experience in speech processing, en
 
 ## Education
 
-- 09/2017 - 09/2018: MSc Data Science
+- 09/2017 - 09/2018: **MSc Data Science**
   - School of Electronics and Computer Science
   - [University of Southampton](https://www.southampton.ac.uk/)
-- 09/2013 - 09/2017: BSc Control Systems
+- 09/2013 - 09/2017: **BSc Control Systems**
   - Department of Computer Technologies and Control
   - [ITMO University](https://en.itmo.ru/)
